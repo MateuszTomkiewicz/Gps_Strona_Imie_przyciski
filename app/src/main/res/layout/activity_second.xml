@@ -10,7 +10,7 @@
         android:id="@+id/tvSecondName"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Imię Nazwisko - tutaj pojawi się Twoje imię"
+        android:text="Mateusz Tomkiewicz"
         android:textSize="22sp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
